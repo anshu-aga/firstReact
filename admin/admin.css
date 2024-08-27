@@ -1,0 +1,22 @@
+      
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* #121481
+#ffeae3
+#ffcbcb
+#ffb1b1 */
+
+body,html{
+   width: 100%;
+   min-height: 100%;
+   /* overflow: hidden; */
+}
+
+form{
+    height: 20vw;
+    width: 20vw;
+}
